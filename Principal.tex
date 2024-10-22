@@ -1,0 +1,115 @@
+\documentclass[12pt,letterpaper]{article}
+\usepackage[utf8]{inputenc}
+
+%Documento
+\usepackage[spanish,es-tabla,es-lcroman]{babel}
+\usepackage[T1]{fontenc}
+\usepackage{times}
+\usepackage[margin=2.54cm]{geometry}
+\usepackage{parskip} %saltos de parrafo
+\setlength{\parskip}{\baselineskip}
+
+%Formatos
+\usepackage{setspace} %espacios de interlineados
+\usepackage[dvipsnames]{xcolor} %paquete para colores
+%tablas
+\usepackage{array}
+\usepackage{multicol}
+\usepackage{longtable}
+
+%imagenes
+\usepackage{graphicx}
+\usepackage{subcaption}
+\usepackage{enumerate} %numeracion de tablas y figuras
+%Listas
+\usepackage[shortlabels]{enumitem}
+
+%hipervinculos
+\usepackage{hyperref}%Genera hipervinculos
+\hypersetup{colorlinks=true,citecolor=black,filecolor=black,linkcolor=black,urlcolor=blue}
+
+%Referencias
+\usepackage{natbib}
+
+%matematicas
+\usepackage{amsmath,amssymb,amsfonts}
+
+% - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+%Indice de ecuaciones, figuras y tablas
+\numberwithin{equation}{section} 	
+\numberwithin{figure}{section}
+\numberwithin{table}{section}
+
+\begin{document}
+\input{Portada.tex}
+\input{TablasContenido.tex}
+
+\newpage
+\listoffigures
+\addcontentsline{toc}{section}{Índice de figuras}
+
+\newpage
+\listoftables
+\addcontentsline{toc}{section}{Índice de tablas}
+
+\newpage
+\addcontentsline{toc}{section}{Nomenclatura}
+
+% - - - - - - - - - - - - - - - - - - -- - - - - - - - - - - - - - - - - - - - - - - -- - - - -
+%Nomenclatura
+
+\textbf{\Large{Nomenclatura}}
+
+\begin{table}[h]
+
+    \centering
+    \caption{Siglas y acrónimos}
+    \vspace{0.3cm}
+    \begin{tabular}{
+    >{\centering\arraybackslash}m{3cm}
+    >{\centering\arraybackslash}m{12cm}} \hline
+
+\textbf{Siglas} & 
+\textbf{Descripción} \\ \hline\hline
+
+    IA & Inteligencia Artificial
+\\[0.2cm]
+
+   DL & Deep Learning
+\\[0.2cm]
+
+   ML & Machine Learning 
+\\[0.2cm]
+
+   CNN & Convolutional Neuronal Network
+\\[0.2cm]
+   RNN & Recurrent Neuronal Network 
+\\[0.2cm]
+   NGS & Next Generation Sequencing 
+\\[0.2cm]
+   ANN & Artificial Neuronal Network 
+\\[0.2cm]
+
+\hline
+    \end{tabular}
+\end{table}
+
+\newpage
+
+\setcounter{page}{1} %se reinicia el contador de la páginas después de la Tabla de contenido
+\pagenumbering{arabic}
+
+% - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+%Documento principal
+
+\input{Introduccion.tex}
+\input{MarcoConceptual.tex}
+\input{EstadoDelArte.tex}
+\input{PropuestaDeTesis.tex}
+\input{Cronograma.tex}
+
+\newpage
+\bibliographystyle{apalike} %eslito del citado %apacite %plain %apalike
+\bibliography{bibliografia.bib} %archivo de las referencias
+
+\end{document}
