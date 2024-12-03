@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.22)  3 DEC 2024 15:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.22)  3 DEC 2024 15:52
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -446,10 +446,6 @@ File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
 ) (c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\2° Semestre\Propuesta de tesis (Final)\Propuesta_Tesis_2_Sem\build\Principal.aux
 LaTeX Info: Redefining \. on input line 11.
 LaTeX Info: Redefining \% on input line 11.
-
-
-LaTeX Warning: Label `fig:Convolution' multiply defined.
-
 )
 \openout1 = `Principal.aux'.
 
@@ -735,14 +731,12 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 [17]
-
-LaTeX Warning: Reference `' on page 18 undefined on input line 433.
-
-<Imagenes/DL_Oncologia.png, id=642, 927.684pt x 349.524pt>
+<Imagenes/DL_Oncologia.png, id=643, 927.684pt x 349.524pt>
 File: Imagenes/DL_Oncologia.png Graphic file (type png)
 <use Imagenes/DL_Oncologia.png>
 Package pdftex.def Info: Imagenes/DL_Oncologia.png  used on input line 437.
-(pdftex.def)             Requested size: 328.82733pt x 123.89255pt.
+(pdftex.def)             Requested size: 375.80574pt x 141.59377pt.
+
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
@@ -758,7 +752,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 [20]) (Cronograma.tex
 
 [21]
-<Imagenes/Cronograma.png, id=708, 926.5014pt x 389.2944pt>
+<Imagenes/Cronograma.png, id=709, 926.5014pt x 389.2944pt>
 File: Imagenes/Cronograma.png Graphic file (type png)
 <use Imagenes/Cronograma.png>
 Package pdftex.def Info: Imagenes/Cronograma.png  used on input line 7.
@@ -787,28 +781,21 @@ LaTeX Info: Redefining \% on input line 11.
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-09-10>
  ***********
-
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: There were multiply-defined labels.
-
 Package rerunfilecheck Info: File `Principal.out' has not changed.
 (rerunfilecheck)             Checksum: 093BD7F547E0681221D519300801C815;5396.
  ) 
 Here is how much of TeX's memory you used:
  15740 strings out of 473899
- 260764 string characters out of 5726499
- 713368 words of memory out of 5000000
+ 260780 string characters out of 5726499
+ 713414 words of memory out of 5000000
  38178 multiletter control sequences out of 15000+600000
  597872 words of font info for 86 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  69i,11n,80p,1253b,738s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/artur/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/artur/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/artur/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/artur/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/artur/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/artur/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/artur/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/artur/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/artur/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/artur/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/artur/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/artur/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on "c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\2° Semestre\Propuesta de tesis (Final)\Propuesta_Tesis_2_Sem\build\Principal.pdf" (34 pages, 2191339 bytes).
+Output written on "c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\2° Semestre\Propuesta de tesis (Final)\Propuesta_Tesis_2_Sem\build\Principal.pdf" (34 pages, 2190908 bytes).
 PDF statistics:
- 835 PDF objects out of 1000 (max. 8388607)
+ 836 PDF objects out of 1000 (max. 8388607)
  184 named destinations out of 1000 (max. 500000)
  342 words of extra memory for PDF output out of 10000 (max. 10000000)
 

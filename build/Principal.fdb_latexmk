@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex build/Principal"] 1733262376.83387 "build/Principal.aux" "build/Principal.bbl" "build/Principal" 1733262386.54073 0
+["bibtex build/Principal"] 1733262712.54808 "build/Principal.aux" "build/Principal.bbl" "build/Principal" 1733262744.31659 0
   "./bibliografia.bib" 1733162411 30811 5b284cc9e6900073cdc9046d453799fa ""
   "C:/Users/artur/AppData/Local/Programs/MiKTeX/bibtex/bst/bibtex/apalike.bst" 1291972791 24635 604dafcc79f521a11ea73e506e1fbd98 ""
-  "build/Principal.aux" 1733262385 20238 762da0acda333f8e66915c9a92f52c24 "pdflatex"
+  "build/Principal.aux" 1733262743 20239 da3581d0f96112ffb7293f6ec688ab4a "pdflatex"
   (generated)
   "build/Principal.bbl"
   "build/Principal.blg"
   (rewritten before read)
-["pdflatex"] 1733262377.42905 "c:/Users/artur/OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico/Documentos/Doctorado/2° Semestre/Propuesta de tesis (Final)/Propuesta_Tesis_2_Sem/Principal.tex" "build/Principal.pdf" "Principal" 1733262386.54175 0
+["pdflatex"] 1733262734.49392 "c:/Users/artur/OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico/Documentos/Doctorado/2° Semestre/Propuesta de tesis (Final)/Propuesta_Tesis_2_Sem/Principal.tex" "build/Principal.pdf" "Principal" 1733262744.31789 0
   "C:/Users/artur/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1731617223 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/artur/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1729622688 11948238 4c00b7e0165f26c632fb499926e9361a ""
   "C:/Users/artur/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc" 1458473887 4993 80dc9bab7f31fb78a000ccfed0e27cab ""
@@ -138,7 +138,7 @@
   "C:/Users/artur/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/artur/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
   "Cronograma.tex" 1729625432 360 adf44553decb90ea7a1baaf3c86d1085 ""
-  "EstadoDelArte.tex" 1733262373 28679 7e4c459747da9cea5a9615273eb54206 ""
+  "EstadoDelArte.tex" 1733262723 28700 5aa1ba0d2506ea8aafc70d099314e127 ""
   "Imagenes/AP.png" 1733247089 355111 585104dcb3b15b436382ba3e38529995 ""
   "Imagenes/Agrupamiento.png" 1718252048 21905 c0e7dff88a3a9756209c0a2ff53938f2 ""
   "Imagenes/CNN.png" 1718252048 73110 e16952006b1147ae31e65efe915fda1c ""
@@ -161,12 +161,12 @@
   "Principal.tex" 1729625061 2727 516cf7cdc2c30c7bec5941be91f07e91 ""
   "PropuestaDeTesis.tex" 1733255608 4049 454aa9920c004fb06c5720e476f75df5 ""
   "TablasContenido.tex" 1729616278 99 702acab88c5a5c5b36b3d74280f35a57 ""
-  "build/Principal.aux" 1733262385 20238 762da0acda333f8e66915c9a92f52c24 "pdflatex"
-  "build/Principal.bbl" 1733262377 24259 cc0df43d856e85460a4aefafc7195d11 "bibtex build/Principal"
-  "build/Principal.lof" 1733262385 2279 1d7187e61f38c8aec0ae04481f28017d "pdflatex"
-  "build/Principal.lot" 1733262385 1181 fdf881802370f76c693f424848383db6 "pdflatex"
-  "build/Principal.out" 1733262385 5396 093bd7f547e0681221d519300801c815 "pdflatex"
-  "build/Principal.toc" 1733262385 2813 a5b5a2351349b24a059775e10de997df "pdflatex"
+  "build/Principal.aux" 1733262743 20239 da3581d0f96112ffb7293f6ec688ab4a "pdflatex"
+  "build/Principal.bbl" 1733262713 24259 cc0df43d856e85460a4aefafc7195d11 "bibtex build/Principal"
+  "build/Principal.lof" 1733262743 2279 1d7187e61f38c8aec0ae04481f28017d "pdflatex"
+  "build/Principal.lot" 1733262743 1181 fdf881802370f76c693f424848383db6 "pdflatex"
+  "build/Principal.out" 1733262743 5396 093bd7f547e0681221d519300801c815 "pdflatex"
+  "build/Principal.toc" 1733262743 2813 a5b5a2351349b24a059775e10de997df "pdflatex"
   "c:/Users/artur/OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico/Documentos/Doctorado/2° Semestre/Propuesta de tesis (Final)/Propuesta_Tesis_2_Sem/Principal.tex" 1729625061 2727 516cf7cdc2c30c7bec5941be91f07e91 ""
   "logos latex.PNG" 1718252048 46823 a757b776c24ed05917bf54b498035382 ""
   (generated)
