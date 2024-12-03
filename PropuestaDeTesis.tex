@@ -5,7 +5,8 @@
 \begin{itemize}
 
    \addtolength{\itemsep}{-4mm} %con esto se ajusta el interlineado entre la lista
-        \item Modelar datos ómicos (genómicos, transcriptómicos y proteómicos) utilizando técnicas de aprendizaje profundo, empleando redes neuronales de diseño propio, y configurar la salida del modelo para diferentes propósitos de clasificación y predicción.
+        \item Modelar datos genómicos, transcriptómicos y proteómicos utilizando técnicas de aprendizaje profundo, empleando redes neuronales de diseño propio, y configurar la salida del modelo para propósitos de clasificación y predicción, enfocados en el diagnóstico y pronostico del cáncer.
+
 
     \end{itemize}
 
@@ -19,8 +20,8 @@
         \item Codificar datos genómicos, transcriptómicos y proteómicos para ser alimentados en las redes neuronales.
         \item Implementar redes neuronales convolucionada (CNN) y recurrente (RNN), y entrenarlas.
         \item Proponer y diseñar una red neuronal propia a partir de las dos anteriores.
-        \item Configurar en cada caso la salida, si es un clasificador, un predictor, un regresor o un generador de señal.
-        \item Enfocar el modelado de las redes neuronales para fines biomédicos.
+        \item Configurar en cada caso la salida, para propósito de clasificación y predicción.
+        \item Enfocar el modelado de las redes neuronales para fines biomédicos en diagnóstico y pronostico del cáncer.
         \item Validar los resultados con las bases de datos e incluyendo opinión de especialistas.
     \end{itemize}
 
@@ -28,7 +29,7 @@
 
 El aprendizaje profundo actualmente tiene como base de procesamiento a las redes neuronales, en CENIDET se cuentan con trabajos relacionados con la aplicación de algoritmos de redes neuronales artificiales.
 
-Uno de los principales intereses es la participación con especialistas que participan en el área médica en el centro oncológico de San Peregrino Cancer Center, donde se tiene un convenio de participación. De misma manera se tiene una colaboración con la Universidad de Grenoble, donde se ha estado trabajando con datos omicos.
+Uno de los principales intereses es la participación con especialistas que participan en el área médica en el centro oncológico de San Peregrino Cancer Center, donde se tiene un convenio de participación. De misma manera se tiene una colaboración con la Universidad de Grenoble, donde se ha estado trabajando con datos ómicos.
 
 \subsection{Planteamiento del problema}
 
@@ -36,7 +37,7 @@ La conjunción del aprendizaje profundo en el área biomédica recientemente est
 
 Las áreas de oportunidad que se plantean abordar son la codificación de datos en un formato que pueda ser interpretado y analizado por el modelo de red neuronal, donde se considera la normalización de los datos adquiridos, imputación y reducción de dimensiones con el fin de aumentar la precisión del modelo de DL.
 
-Los algoritmos de aprendizaje profundo en aplicaciones de clasificación y predicción utilizando datos omicos están lejos de ser óptimos debido a la complejidad de los tipos de datos y los problemas antes mencionados, lo que se busca abordar es en la propuesta de un nuevo algoritmo que tome las ventajas que tienen otros e incorporarlas, ya que como se propone vincular con el área médica se requiere una alta precisión en las respuestas que se obtienen del modelo.
+Los algoritmos de aprendizaje profundo en aplicaciones de clasificación y predicción utilizando datos ómicos están lejos de ser óptimos debido a la complejidad de los tipos de datos y los problemas antes mencionados, lo que se busca abordar es en la propuesta de un nuevo algoritmo que tome las ventajas que tienen otros e incorporarlas, ya que como se propone vincular con el área médica se requiere una alta precisión en las respuestas que se obtienen del modelo.
 
 \subsection{Pregunta de investigación}
 
@@ -44,4 +45,4 @@ Los algoritmos de aprendizaje profundo en aplicaciones de clasificación y predi
 
 \subsection{Justificación}
 
-El uso de datos omicos de diversas fuentes públicas presenta problemas como la heterogeneidad y datos desequilibrados (datos faltantes y/o mal etiquetados), con el uso de algoritmos de aprendizaje profundo enfocados en la imputación y codificación se podría mejorar la eficiencia de predicción y clasificación del modelo para pronóstico del cáncer. La integración con el área biomédica supone una ventaja en el área biomédica para una evaluación temprana en pacientes con un tipo de cáncer y determinar la progresión con el cual se pueden establecer tratamientos adecuados.
+El uso de datos ómicos de diversas fuentes públicas presenta problemas como la heterogeneidad y datos desequilibrados (datos faltantes y/o mal etiquetados), con el uso de algoritmos de aprendizaje profundo enfocados en la imputación y codificación se podría mejorar la eficiencia de predicción y clasificación del modelo para pronóstico del cáncer. La integración con el área biomédica supone una ventaja en el área biomédica para una evaluación temprana en pacientes con un tipo de cáncer y determinar la progresión con el cual se pueden establecer tratamientos adecuados.
