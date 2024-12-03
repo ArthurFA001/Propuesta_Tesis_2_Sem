@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.22)  3 DEC 2024 14:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.22)  3 DEC 2024 15:46
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -446,6 +446,10 @@ File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
 ) (c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\2° Semestre\Propuesta de tesis (Final)\Propuesta_Tesis_2_Sem\build\Principal.aux
 LaTeX Info: Redefining \. on input line 11.
 LaTeX Info: Redefining \% on input line 11.
+
+
+LaTeX Warning: Label `fig:Convolution' multiply defined.
+
 )
 \openout1 = `Principal.aux'.
 
@@ -532,7 +536,7 @@ Package hyperref Info: Link coloring ON on input line 43.
 \openout3 = `Principal.out'.
 
  (Portada.tex
-<logos latex.PNG, id=126, 573.64313pt x 52.69687pt>
+<logos latex.PNG, id=130, 573.64313pt x 52.69687pt>
 File: logos latex.PNG Graphic file (type png)
 <use logos latex.PNG>
 Package pdftex.def Info: logos latex.PNG  used on input line 3.
@@ -589,12 +593,12 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has b
                    \relax 
 l.17 
       [1]) (MarcoConceptual.tex
-<Imagenes/Datos_omicos.png, id=248, 911.478pt x 341.859pt>
+<Imagenes/Datos_omicos.png, id=255, 911.478pt x 341.859pt>
 File: Imagenes/Datos_omicos.png Graphic file (type png)
 <use Imagenes/Datos_omicos.png>
 Package pdftex.def Info: Imagenes/Datos_omicos.png  used on input line 9.
 (pdftex.def)             Requested size: 422.77698pt x 158.56635pt.
-<Imagenes/Tip_omic.png, id=250, 757.3896pt x 267.8808pt>
+<Imagenes/Tip_omic.png, id=257, 757.3896pt x 267.8808pt>
 File: Imagenes/Tip_omic.png Graphic file (type png)
 <use Imagenes/Tip_omic.png>
 Package pdftex.def Info: Imagenes/Tip_omic.png  used on input line 20.
@@ -610,12 +614,12 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 [3 <./Imagenes/Tip_omic.png>]
 
 [4]
-<Imagenes/Neu_Diag.png, id=293, 762.6894pt x 268.8444pt>
+<Imagenes/Neu_Diag.png, id=300, 762.6894pt x 268.8444pt>
 File: Imagenes/Neu_Diag.png Graphic file (type png)
 <use Imagenes/Neu_Diag.png>
 Package pdftex.def Info: Imagenes/Neu_Diag.png  used on input line 201.
 (pdftex.def)             Requested size: 375.80574pt x 132.46921pt.
-<Imagenes/ConjuntoANN.png, id=299, 896.6298pt x 381.1038pt>
+<Imagenes/ConjuntoANN.png, id=306, 896.6298pt x 381.1038pt>
 File: Imagenes/ConjuntoANN.png Graphic file (type png)
 <use Imagenes/ConjuntoANN.png>
 Package pdftex.def Info: Imagenes/ConjuntoANN.png  used on input line 210.
@@ -623,7 +627,7 @@ Package pdftex.def Info: Imagenes/ConjuntoANN.png  used on input line 210.
 
 
 [5 <./Imagenes/Neu_Diag.png> <./Imagenes/ConjuntoANN.png>]
-<Imagenes/funcion_sigmoid.png, id=320, 409.7709pt x 328.8285pt>
+<Imagenes/funcion_sigmoid.png, id=327, 409.7709pt x 328.8285pt>
 File: Imagenes/funcion_sigmoid.png Graphic file (type png)
 <use Imagenes/funcion_sigmoid.png>
 Package pdftex.def Info: Imagenes/funcion_sigmoid.png  used on input line 237.
@@ -635,7 +639,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 [6]
-<Imagenes/fun_tanh.png, id=346, 424.2249pt x 328.8285pt>
+<Imagenes/fun_tanh.png, id=353, 424.2249pt x 328.8285pt>
 File: Imagenes/fun_tanh.png Graphic file (type png)
 <use Imagenes/fun_tanh.png>
 Package pdftex.def Info: Imagenes/fun_tanh.png  used on input line 255.
@@ -643,12 +647,12 @@ Package pdftex.def Info: Imagenes/fun_tanh.png  used on input line 255.
 
 
 [7 <./Imagenes/funcion_sigmoid.png> <./Imagenes/fun_tanh.png>]
-<Imagenes/Fun_ReLU.png, id=362, 406.1574pt x 328.8285pt>
+<Imagenes/Fun_ReLU.png, id=369, 406.1574pt x 328.8285pt>
 File: Imagenes/Fun_ReLU.png Graphic file (type png)
 <use Imagenes/Fun_ReLU.png>
 Package pdftex.def Info: Imagenes/Fun_ReLU.png  used on input line 275.
 (pdftex.def)             Requested size: 187.89928pt x 152.12094pt.
-<Imagenes/Func_softmax.png, id=367, 422.0568pt x 328.8285pt>
+<Imagenes/Func_softmax.png, id=374, 422.0568pt x 328.8285pt>
 File: Imagenes/Func_softmax.png Graphic file (type png)
 <use Imagenes/Func_softmax.png>
 Package pdftex.def Info: Imagenes/Func_softmax.png  used on input line 293.
@@ -660,7 +664,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 [8 <./Imagenes/Fun_ReLU.png>]
-<Imagenes/IA_AA_AP.png, id=382, 526.1256pt x 358.941pt>
+<Imagenes/IA_AA_AP.png, id=389, 526.1256pt x 358.941pt>
 File: Imagenes/IA_AA_AP.png Graphic file (type png)
 <use Imagenes/IA_AA_AP.png>
 Package pdftex.def Info: Imagenes/IA_AA_AP.png  used on input line 317.
@@ -668,7 +672,7 @@ Package pdftex.def Info: Imagenes/IA_AA_AP.png  used on input line 317.
 
 
 [9 <./Imagenes/Func_softmax.png> <./Imagenes/IA_AA_AP.png>]
-<Imagenes/AP.png, id=400, 552.537pt x 393.762pt>
+<Imagenes/AP.png, id=407, 552.537pt x 393.762pt>
 File: Imagenes/AP.png Graphic file (type png)
 <use Imagenes/AP.png>
 Package pdftex.def Info: Imagenes/AP.png  used on input line 337.
@@ -676,17 +680,17 @@ Package pdftex.def Info: Imagenes/AP.png  used on input line 337.
 
 
 [10 <./Imagenes/AP.png>]
-<Imagenes/CNN.png, id=414, 840.2592pt x 343.5234pt>
+<Imagenes/CNN.png, id=421, 840.2592pt x 343.5234pt>
 File: Imagenes/CNN.png Graphic file (type png)
 <use Imagenes/CNN.png>
 Package pdftex.def Info: Imagenes/CNN.png  used on input line 350.
 (pdftex.def)             Requested size: 422.77698pt x 172.84106pt.
-<Imagenes/Convolucion.png, id=416, 479.8728pt x 201.3924pt>
+<Imagenes/Convolucion.png, id=423, 479.8728pt x 201.3924pt>
 File: Imagenes/Convolucion.png Graphic file (type png)
 <use Imagenes/Convolucion.png>
 Package pdftex.def Info: Imagenes/Convolucion.png  used on input line 359.
 (pdftex.def)             Requested size: 234.87769pt x 98.57558pt.
-<Imagenes/Agrupamiento.png, id=418, 858.0858pt x 181.1568pt>
+<Imagenes/Agrupamiento.png, id=425, 858.0858pt x 181.1568pt>
 File: Imagenes/Agrupamiento.png Graphic file (type png)
 <use Imagenes/Agrupamiento.png>
 Package pdftex.def Info: Imagenes/Agrupamiento.png  used on input line 368.
@@ -698,7 +702,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 [11 <./Imagenes/CNN.png> <./Imagenes/Convolucion.png>]
-<Imagenes/RNN.png, id=427, 855.195pt x 348.3414pt>
+<Imagenes/RNN.png, id=434, 855.195pt x 348.3414pt>
 File: Imagenes/RNN.png Graphic file (type png)
 <use Imagenes/RNN.png>
 Package pdftex.def Info: Imagenes/RNN.png  used on input line 381.
@@ -732,29 +736,36 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [17]
 
+LaTeX Warning: Reference `' on page 18 undefined on input line 433.
+
+<Imagenes/DL_Oncologia.png, id=642, 927.684pt x 349.524pt>
+File: Imagenes/DL_Oncologia.png Graphic file (type png)
+<use Imagenes/DL_Oncologia.png>
+Package pdftex.def Info: Imagenes/DL_Oncologia.png  used on input line 437.
+(pdftex.def)             Requested size: 328.82733pt x 123.89255pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 
 [18]
 
-[19]) (PropuestaDeTesis.tex
+[19 <./Imagenes/DL_Oncologia.png>]) (PropuestaDeTesis.tex
 
 [20]) (Cronograma.tex
-<Imagenes/Cronograma.png, id=695, 926.5014pt x 389.2944pt>
+
+[21]
+<Imagenes/Cronograma.png, id=708, 926.5014pt x 389.2944pt>
 File: Imagenes/Cronograma.png Graphic file (type png)
 <use Imagenes/Cronograma.png>
 Package pdftex.def Info: Imagenes/Cronograma.png  used on input line 7.
 (pdftex.def)             Requested size: 469.75539pt x 197.38512pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
 )
 
-[21] (c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\2° Semestre\Propuesta de tesis (Final)\Propuesta_Tesis_2_Sem\build\Principal.bbl
-
-[22 <./Imagenes/Cronograma.png>]
+[22 <./Imagenes/Cronograma.png>] (c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\2° Semestre\Propuesta de tesis (Final)\Propuesta_Tesis_2_Sem\build\Principal.bbl
 
 [23]
 
@@ -776,21 +787,28 @@ LaTeX Info: Redefining \% on input line 11.
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-09-10>
  ***********
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
 Package rerunfilecheck Info: File `Principal.out' has not changed.
-(rerunfilecheck)             Checksum: 0EFBDE60061FBF595D27491A080A977F;5151.
+(rerunfilecheck)             Checksum: 093BD7F547E0681221D519300801C815;5396.
  ) 
 Here is how much of TeX's memory you used:
- 15729 strings out of 473899
- 260482 string characters out of 5726499
- 712311 words of memory out of 5000000
- 38169 multiletter control sequences out of 15000+600000
+ 15740 strings out of 473899
+ 260764 string characters out of 5726499
+ 713368 words of memory out of 5000000
+ 38178 multiletter control sequences out of 15000+600000
  597872 words of font info for 86 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 69i,11n,80p,1253b,756s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 69i,11n,80p,1253b,738s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/artur/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/artur/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/artur/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/artur/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/artur/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/artur/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/artur/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/artur/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/artur/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/artur/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/artur/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/artur/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on "c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\2° Semestre\Propuesta de tesis (Final)\Propuesta_Tesis_2_Sem\build\Principal.pdf" (34 pages, 1967604 bytes).
+Output written on "c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\2° Semestre\Propuesta de tesis (Final)\Propuesta_Tesis_2_Sem\build\Principal.pdf" (34 pages, 2191339 bytes).
 PDF statistics:
- 826 PDF objects out of 1000 (max. 8388607)
- 182 named destinations out of 1000 (max. 500000)
- 329 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 835 PDF objects out of 1000 (max. 8388607)
+ 184 named destinations out of 1000 (max. 500000)
+ 342 words of extra memory for PDF output out of 10000 (max. 10000000)
 

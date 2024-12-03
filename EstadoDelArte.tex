@@ -148,7 +148,7 @@ El DL en proteómica se usa en la identificación de estructura de proteínas, c
 
 También se destaca el uso de DL en la predicción de la función de proteínas, donde los datos utilizados para el entrenamiento del modelo son secuencias de aminoácidos, la estructura de la proteína e interacciones proteína-proteína, el tipo de redes más usadas son las CNN y las RNN \citep{kulmanov2018deepgo,wang2017musitedeep}.
 
-En la siguiente Tabla~\ref{tab:revision} se muestra la revisión de los algoritmos de aprendizaje profundo utilizados para propósitos de clasificación, predicción, codificación de los datos, y el tipo de datos utilizados.
+En la Tabla~\ref{tab:revision} se muestra la revisión de los algoritmos de aprendizaje profundo utilizados para propósitos de clasificación, predicción, codificación de los datos, y el tipo de datos utilizados.
 
 \begin{table}[!h]
     \scriptsize
@@ -386,17 +386,22 @@ En la revisión anterior se puede observar que las principales aplicaciones de l
     TCGA &
     Genómica, transcriptómica, proteómica, metabolómica &
     33 tipos &
-    JSON, TSV 
+    TSV 
+\\
+    UCSC Xena &
+    Genómica, transcriptómica, Epigenomicos, proteómica &
+    50 tipos &
+    JSON, TSV, HDF5 
 \\
     GEO &
     Genómica, transcriptómica, proteómica &
     20 tipos &
-    JSON, TSV
+    JSON, TSV, CSV
 \\  
     ICGC &
     Genómica, transcriptómica, proteómica, metabolómica &
     50 tipos &
-    JSON, TSV 
+    CSV ,TSV 
 \\
     CBioPortal &
     Genómica, transcriptómica, proteómica &
@@ -418,10 +423,21 @@ En la revisión anterior se puede observar que las principales aplicaciones de l
     \label{tab:base_datos_cancer}
 \end{table}
 
-El análisis de datos omicos actualmente se centra en el cáncer y, por lo tanto, se ubica un mayor número de bases de datos genómicos, transcriptómicos, proteómicos y metabolómicos. Esto presenta una ventaja debido a que se tiene un mayor número de datos de entrenamiento y validación para los investigadores que se dedican al desarrollo de algoritmos de aprendizaje profundo. En la Tabla~\ref{tab:base_datos_cancer} se muestran las distintas bases de datos de distintos tipos de cáncer, destacando la TCGA debido a cuenta con una biblioteca para la descarga por lotes de datos y que ha sido de mayor uso en los trabajos de investigación \citep{li2022identification}.
+\subsubsection{Aprendizaje profundo en oncología}
+
+El análisis de datos ómicos actualmente se centra en el cáncer y, por lo tanto, se ubica un mayor número de bases de datos genómicos, transcriptómicos, proteómicos y metabolómicos. Esto presenta una ventaja debido a que se tiene un mayor número de datos de entrenamiento y validación para los investigadores que se dedican al desarrollo de algoritmos de aprendizaje profundo. En la Tabla~\ref{tab:base_datos_cancer} se muestran las distintas bases de datos de distintos tipos de cáncer, destacando la TCGA debido a cuenta con una biblioteca para la descarga por lotes de datos y que ha sido de mayor uso en los trabajos de investigación \citep{li2022identification}.
 
 
 De esta revisión se logra precisar sobre el tipo de datos que se seleccionaran para el diseño del algoritmo de red neuronal, debido a que los datos enfocados en el cáncer cuentan con el mayor número de bases de datos del cual adquirir conjuntos de entrenamiento. En la Tabla~\ref{tab:RevisionCancer} se toman trabajos con este enfoque.
+
+El DL en el estudio de cancer se centra en tres propositos principales los cuales son el diagnostico y pronostico, descubrimiento y desarrollo de farmacos, y en la prediccion de la respuesta a tratamientos (Figura \ref{}).
+
+\begin{figure}[!h]
+    \centering
+    \includegraphics[width=.7\textwidth]{Imagenes/DL_Oncologia.png}
+    \caption{Aplicaciones y sus propósitos del aprendizaje profundo en oncología.}
+    \label{fig:Convolution}
+\end{figure}
 
 \begin{table}[!h]
     \scriptsize
@@ -530,13 +546,6 @@ De esta revisión se logra precisar sobre el tipo de datos que se seleccionaran 
     \end{tabular}
     \label{tab:RevisionCancer}
 \end{table}
-
-
-
-
-
-
-
 
 El creciente éxito de aprendizaje profundo ha impulsado el desarrollo de software de código abierto, en las que se encuentran las más populares como tensorflow, Caffe, Torch y CNTK. Estas herramientas son compatibles con CPU multinúcleo y GPU multinúcleo \citep{shi2016benchmarking,liu2020application}.
 
