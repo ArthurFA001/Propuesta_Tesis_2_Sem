@@ -24,9 +24,12 @@
 \contentsline {subsubsection}{\numberline {3.2.1}Aprendizaje profundo en ómica}{16}{subsubsection.3.2.1}%
 \contentsline {subsubsection}{\numberline {3.2.2}Aprendizaje profundo en oncología}{17}{subsubsection.3.2.2}%
 \contentsline {section}{\numberline {4}Propuesta de tesis}{20}{section.4}%
-\contentsline {subsection}{\numberline {4.1}Antecedentes}{20}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2}Planteamiento del problema}{21}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.1}Planteamiento del problema}{20}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Propuesta de solución}{21}{subsection.4.2}%
 \contentsline {subsection}{\numberline {4.3}Objetivo general}{21}{subsection.4.3}%
-\contentsline {subsection}{\numberline {4.4}Objetivos específicos}{21}{subsection.4.4}%
-\contentsline {subsection}{\numberline {4.5}Justificación}{21}{subsection.4.5}%
-\contentsline {section}{\numberline {5}Cronograma de actividades}{22}{section.5}%
+\contentsline {subsection}{\numberline {4.4}Objetivos específicos}{22}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}Justificación}{22}{subsection.4.5}%
+\contentsline {subsection}{\numberline {4.6}Aportación}{22}{subsection.4.6}%
+\contentsline {subsection}{\numberline {4.7}Metas}{22}{subsection.4.7}%
+\contentsline {subsection}{\numberline {4.8}Metodología}{22}{subsection.4.8}%
+\contentsline {section}{\numberline {5}Cronograma de actividades}{23}{section.5}%
