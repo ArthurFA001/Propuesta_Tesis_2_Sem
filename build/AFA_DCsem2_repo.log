@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.22)  6 DEC 2024 18:08
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.22)  11 DEC 2024 20:25
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -794,14 +794,14 @@ Package rerunfilecheck Info: File `AFA_DCsem2_repo.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  15746 strings out of 473899
- 261157 string characters out of 5726499
- 713427 words of memory out of 5000000
+ 261189 string characters out of 5726499
+ 713428 words of memory out of 5000000
  38180 multiletter control sequences out of 15000+600000
  597872 words of font info for 86 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  69i,11n,80p,1259b,753s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/artur/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/artur/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/artur/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/artur/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/artur/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/artur/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/artur/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/artur/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/artur/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/artur/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/artur/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/artur/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on "c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\2° Semestre\Propuesta de tesis (Final)\Propuesta_Tesis_2_Sem\build\AFA_DCsem2_repo.pdf" (36 pages, 2145407 bytes).
+Output written on "c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\2° Semestre\Propuesta de tesis (Final)\Propuesta_Tesis_2_Sem\build\AFA_DCsem2_repo.pdf" (36 pages, 2145380 bytes).
 PDF statistics:
  855 PDF objects out of 1000 (max. 8388607)
  188 named destinations out of 1000 (max. 500000)

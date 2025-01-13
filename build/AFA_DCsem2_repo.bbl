@@ -236,12 +236,6 @@ Li, M., Guo, H., Wang, K., Kang, C., Yin, Y., and Zhang, H. (2024).
   selection on multi-omics data for pan-cancer classification.
 \newblock {\em Computers in Biology and Medicine}, page 108614.
 
-\bibitem[Li et~al., 2020]{li2020deep}
-Li, T., Tong, W., Roberts, R., Liu, Z., and Thakkar, S. (2020).
-\newblock Deep learning on high-throughput transcriptomics to predict
-  drug-induced liver injury.
-\newblock {\em Frontiers in bioengineering and biotechnology}, 8:562677.
-
 \bibitem[Li et~al., 2022a]{li2022machine}
 Li, Y., Wu, X., Yang, P., Jiang, G., and Luo, Y. (2022a).
 \newblock Machine learning for lung cancer diagnosis, treatment, and prognosis.
@@ -261,6 +255,12 @@ Liang, M., Li, Z., Chen, T., and Zeng, J. (2014).
   multimodal deep learning approach.
 \newblock {\em IEEE/ACM transactions on computational biology and
   bioinformatics}, 12(4):928--937.
+
+\bibitem[Lin et~al., 2020]{lin2020classifying}
+Lin, Y., Zhang, W., Cao, H., Li, G., and Du, W. (2020).
+\newblock Classifying breast cancer subtypes using deep neural networks based
+  on multi-omics data.
+\newblock {\em Genes}, 11(8):888.
 
 \bibitem[Liu et~al., 2020]{liu2020application}
 Liu, J., Li, J., Wang, H., and Yan, J. (2020).

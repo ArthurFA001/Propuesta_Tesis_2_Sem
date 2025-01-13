@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex build/AFA_DCsem2_repo"] 1733529809.32898 "build/AFA_DCsem2_repo.aux" "build/AFA_DCsem2_repo.bbl" "build/AFA_DCsem2_repo" 1733530117.92833 0
-  "./bibliografia.bib" 1733162411 30811 5b284cc9e6900073cdc9046d453799fa ""
+["bibtex build/AFA_DCsem2_repo"] 1733970320.11607 "build/AFA_DCsem2_repo.aux" "build/AFA_DCsem2_repo.bbl" "build/AFA_DCsem2_repo" 1733970331.8092 0
+  "./bibliografia.bib" 1733970205 31131 4cd5d6a9f98fea6150913da79143be2f ""
   "C:/Users/artur/AppData/Local/Programs/MiKTeX/bibtex/bst/bibtex/apalike.bst" 1291972791 24635 604dafcc79f521a11ea73e506e1fbd98 ""
-  "build/AFA_DCsem2_repo.aux" 1733530116 20469 5269e51cd062fc2945864731062d7d19 "pdflatex"
+  "build/AFA_DCsem2_repo.aux" 1733970330 20486 d7bb12ec6895f1788ee291267a8a2895 "pdflatex"
   (generated)
   "build/AFA_DCsem2_repo.bbl"
   "build/AFA_DCsem2_repo.blg"
   (rewritten before read)
-["pdflatex"] 1733530106.38417 "c:/Users/artur/OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico/Documentos/Doctorado/2° Semestre/Propuesta de tesis (Final)/Propuesta_Tesis_2_Sem/AFA_DCsem2_repo.tex" "build/AFA_DCsem2_repo.pdf" "AFA_DCsem2_repo" 1733530117.92928 0
+["pdflatex"] 1733970320.68283 "c:/Users/artur/OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico/Documentos/Doctorado/2° Semestre/Propuesta de tesis (Final)/Propuesta_Tesis_2_Sem/AFA_DCsem2_repo.tex" "build/AFA_DCsem2_repo.pdf" "AFA_DCsem2_repo" 1733970331.81084 0
   "AFA_DCsem2_repo.tex" 1733529578 3371 65ca6013095dcef63e92ca333f0fdce3 ""
   "C:/Users/artur/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1731617223 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/artur/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1729622688 11948238 4c00b7e0165f26c632fb499926e9361a ""
@@ -139,7 +139,7 @@
   "C:/Users/artur/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/artur/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
   "Cronograma.tex" 1733528242 378 54f9821bc3dc8879f3e5da41e4c1971d ""
-  "EstadoDelArte.tex" 1733529604 28701 e0b41fd409fbc2f154afa2c5b09d8bbf ""
+  "EstadoDelArte.tex" 1733970294 28709 f517a27df79c9d74044529739d7ed253 ""
   "Imagenes/AP.png" 1733247089 355111 585104dcb3b15b436382ba3e38529995 ""
   "Imagenes/Agrupamiento.png" 1718252048 21905 c0e7dff88a3a9756209c0a2ff53938f2 ""
   "Imagenes/CNN.png" 1718252048 73110 e16952006b1147ae31e65efe915fda1c ""
@@ -162,12 +162,12 @@
   "Portada.tex" 1733504226 1821 f9de350725e72a56cfc6b207970e500b ""
   "PropuestaDeTesis.tex" 1733530104 9763 fa4c965422b2f84dccfbedacd2dd8a95 ""
   "TablasContenido.tex" 1729616278 99 702acab88c5a5c5b36b3d74280f35a57 ""
-  "build/AFA_DCsem2_repo.aux" 1733530116 20469 5269e51cd062fc2945864731062d7d19 "pdflatex"
-  "build/AFA_DCsem2_repo.bbl" 1733529809 24259 cc0df43d856e85460a4aefafc7195d11 "bibtex build/AFA_DCsem2_repo"
-  "build/AFA_DCsem2_repo.lof" 1733530116 2280 b48ed8a8b368703d4c4f47d3edede4c4 "pdflatex"
-  "build/AFA_DCsem2_repo.lot" 1733530116 1181 fdf881802370f76c693f424848383db6 "pdflatex"
-  "build/AFA_DCsem2_repo.out" 1733530116 5568 d6e92a608f110f7f63c2a9af606acd78 "pdflatex"
-  "build/AFA_DCsem2_repo.toc" 1733530116 2959 4c696d5ad7491938e19523b1f1e8b643 "pdflatex"
+  "build/AFA_DCsem2_repo.aux" 1733970330 20486 d7bb12ec6895f1788ee291267a8a2895 "pdflatex"
+  "build/AFA_DCsem2_repo.bbl" 1733970320 24223 ab5f950399ed2460d4b52e11d4d61a45 "bibtex build/AFA_DCsem2_repo"
+  "build/AFA_DCsem2_repo.lof" 1733970330 2280 b48ed8a8b368703d4c4f47d3edede4c4 "pdflatex"
+  "build/AFA_DCsem2_repo.lot" 1733970330 1181 fdf881802370f76c693f424848383db6 "pdflatex"
+  "build/AFA_DCsem2_repo.out" 1733970330 5568 d6e92a608f110f7f63c2a9af606acd78 "pdflatex"
+  "build/AFA_DCsem2_repo.toc" 1733970330 2959 4c696d5ad7491938e19523b1f1e8b643 "pdflatex"
   "c:/Users/artur/OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico/Documentos/Doctorado/2° Semestre/Propuesta de tesis (Final)/Propuesta_Tesis_2_Sem/AFA_DCsem2_repo.tex" 1733529578 3371 65ca6013095dcef63e92ca333f0fdce3 ""
   (generated)
   "build/AFA_DCsem2_repo.aux"
