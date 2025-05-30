@@ -1,0 +1,19 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {section}{Índice de figuras}{ii}{section*.2}%
+\contentsline {section}{Índice de tablas}{iii}{section*.3}%
+\contentsline {section}{Nomenclatura}{iv}{section*.3}%
+\contentsline {section}{\numberline {1}Introducción}{1}{section.1}%
+\contentsline {section}{\numberline {2}Objetivos}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Objetivo general}{2}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Objetivos específicos}{2}{subsection.2.2}%
+\contentsline {section}{\numberline {3}Marco Teorico}{2}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Redes Neuronales Graficas}{2}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}Grafos}{3}{subsubsection.3.1.1}%
+\contentsline {subsubsection}{\numberline {3.1.2}GAT}{3}{subsubsection.3.1.2}%
+\contentsline {subsubsection}{\numberline {3.1.3}GCN}{3}{subsubsection.3.1.3}%
+\contentsline {subsubsection}{\numberline {3.1.4}GTN}{3}{subsubsection.3.1.4}%
+\contentsline {section}{\numberline {4}Avances}{3}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Procesamiento de datos ómicos}{3}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Estructuras DL en datos ómicos}{3}{subsection.4.2}%
+\contentsline {section}{\numberline {5}Actividades futuras}{3}{section.5}%
+\contentsline {section}{\numberline {6}Cronograma de actividades}{3}{section.6}%

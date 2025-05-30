@@ -1,7 +1,7 @@
-PWD c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\2° Semestre\Propuesta de tesis (Final)\Propuesta_Tesis_2_Sem
+PWD c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\3° Semestre\Presentacion Final Sem & Repo\Repo3erSem
 INPUT C:\Users\artur\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\2° Semestre\Propuesta de tesis (Final)\Propuesta_Tesis_2_Sem\AFA_DCsem2_repo.tex
-OUTPUT c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\2° Semestre\Propuesta de tesis (Final)\Propuesta_Tesis_2_Sem\build\AFA_DCsem2_repo.log
+INPUT c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\3° Semestre\Presentacion Final Sem & Repo\Repo3erSem\Reporte_Tecnico_3er_Sem.tex
+OUTPUT c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\3° Semestre\Presentacion Final Sem & Repo\Repo3erSem\build\Reporte_Tecnico_3er_Sem.log
 INPUT C:\Users\artur\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\artur\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\artur\AppData\Local\Programs\MiKTeX\tex\latex\base\size12.clo
@@ -161,10 +161,10 @@ INPUT C:\Users\artur\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\t1ptm.fd
 INPUT C:\Users\artur\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8t.tfm
 INPUT C:\Users\artur\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Users\artur\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\2° Semestre\Propuesta de tesis (Final)\Propuesta_Tesis_2_Sem\build\AFA_DCsem2_repo.aux
-INPUT c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\2° Semestre\Propuesta de tesis (Final)\Propuesta_Tesis_2_Sem\build\AFA_DCsem2_repo.aux
-INPUT c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\2° Semestre\Propuesta de tesis (Final)\Propuesta_Tesis_2_Sem\build\AFA_DCsem2_repo.aux
-OUTPUT c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\2° Semestre\Propuesta de tesis (Final)\Propuesta_Tesis_2_Sem\build\AFA_DCsem2_repo.aux
+INPUT c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\3° Semestre\Presentacion Final Sem & Repo\Repo3erSem\build\Reporte_Tecnico_3er_Sem.aux
+INPUT c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\3° Semestre\Presentacion Final Sem & Repo\Repo3erSem\build\Reporte_Tecnico_3er_Sem.aux
+INPUT c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\3° Semestre\Presentacion Final Sem & Repo\Repo3erSem\build\Reporte_Tecnico_3er_Sem.aux
+OUTPUT c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\3° Semestre\Presentacion Final Sem & Repo\Repo3erSem\build\Reporte_Tecnico_3er_Sem.aux
 INPUT C:\Users\artur\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\artur\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\artur\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
@@ -174,14 +174,14 @@ INPUT C:\Users\artur\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-s
 INPUT C:\Users\artur\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Users\artur\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Users\artur\AppData\Local\Programs\MiKTeX\tex\latex\graphics\color.sty
-INPUT c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\2° Semestre\Propuesta de tesis (Final)\Propuesta_Tesis_2_Sem\build\AFA_DCsem2_repo.out
-INPUT c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\2° Semestre\Propuesta de tesis (Final)\Propuesta_Tesis_2_Sem\build\AFA_DCsem2_repo.out
-INPUT c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\2° Semestre\Propuesta de tesis (Final)\Propuesta_Tesis_2_Sem\build\AFA_DCsem2_repo.out
-INPUT c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\2° Semestre\Propuesta de tesis (Final)\Propuesta_Tesis_2_Sem\build\AFA_DCsem2_repo.out
-OUTPUT c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\2° Semestre\Propuesta de tesis (Final)\Propuesta_Tesis_2_Sem\build\AFA_DCsem2_repo.pdf
-INPUT c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\2° Semestre\Propuesta de tesis (Final)\Propuesta_Tesis_2_Sem\build\AFA_DCsem2_repo.out
-INPUT c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\2° Semestre\Propuesta de tesis (Final)\Propuesta_Tesis_2_Sem\build\AFA_DCsem2_repo.out
-OUTPUT c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\2° Semestre\Propuesta de tesis (Final)\Propuesta_Tesis_2_Sem\build\AFA_DCsem2_repo.out
+INPUT c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\3° Semestre\Presentacion Final Sem & Repo\Repo3erSem\build\Reporte_Tecnico_3er_Sem.out
+INPUT c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\3° Semestre\Presentacion Final Sem & Repo\Repo3erSem\build\Reporte_Tecnico_3er_Sem.out
+INPUT c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\3° Semestre\Presentacion Final Sem & Repo\Repo3erSem\build\Reporte_Tecnico_3er_Sem.out
+INPUT c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\3° Semestre\Presentacion Final Sem & Repo\Repo3erSem\build\Reporte_Tecnico_3er_Sem.out
+OUTPUT c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\3° Semestre\Presentacion Final Sem & Repo\Repo3erSem\build\Reporte_Tecnico_3er_Sem.pdf
+INPUT c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\3° Semestre\Presentacion Final Sem & Repo\Repo3erSem\build\Reporte_Tecnico_3er_Sem.out
+INPUT c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\3° Semestre\Presentacion Final Sem & Repo\Repo3erSem\build\Reporte_Tecnico_3er_Sem.out
+OUTPUT c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\3° Semestre\Presentacion Final Sem & Repo\Repo3erSem\build\Reporte_Tecnico_3er_Sem.out
 INPUT .\Portada.tex
 INPUT .\Portada.tex
 INPUT Portada.tex
@@ -240,160 +240,41 @@ INPUT .\TablasContenido.tex
 INPUT .\TablasContenido.tex
 INPUT TablasContenido.tex
 INPUT C:\Users\artur\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8t.tfm
-INPUT c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\2° Semestre\Propuesta de tesis (Final)\Propuesta_Tesis_2_Sem\build\AFA_DCsem2_repo.toc
-INPUT c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\2° Semestre\Propuesta de tesis (Final)\Propuesta_Tesis_2_Sem\build\AFA_DCsem2_repo.toc
-INPUT c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\2° Semestre\Propuesta de tesis (Final)\Propuesta_Tesis_2_Sem\build\AFA_DCsem2_repo.toc
-OUTPUT c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\2° Semestre\Propuesta de tesis (Final)\Propuesta_Tesis_2_Sem\build\AFA_DCsem2_repo.toc
-INPUT c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\2° Semestre\Propuesta de tesis (Final)\Propuesta_Tesis_2_Sem\build\AFA_DCsem2_repo.lof
-INPUT c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\2° Semestre\Propuesta de tesis (Final)\Propuesta_Tesis_2_Sem\build\AFA_DCsem2_repo.lof
-INPUT c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\2° Semestre\Propuesta de tesis (Final)\Propuesta_Tesis_2_Sem\build\AFA_DCsem2_repo.lof
-OUTPUT c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\2° Semestre\Propuesta de tesis (Final)\Propuesta_Tesis_2_Sem\build\AFA_DCsem2_repo.lof
-INPUT c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\2° Semestre\Propuesta de tesis (Final)\Propuesta_Tesis_2_Sem\build\AFA_DCsem2_repo.lot
-INPUT c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\2° Semestre\Propuesta de tesis (Final)\Propuesta_Tesis_2_Sem\build\AFA_DCsem2_repo.lot
-INPUT c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\2° Semestre\Propuesta de tesis (Final)\Propuesta_Tesis_2_Sem\build\AFA_DCsem2_repo.lot
-OUTPUT c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\2° Semestre\Propuesta de tesis (Final)\Propuesta_Tesis_2_Sem\build\AFA_DCsem2_repo.lot
+INPUT c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\3° Semestre\Presentacion Final Sem & Repo\Repo3erSem\build\Reporte_Tecnico_3er_Sem.toc
+INPUT c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\3° Semestre\Presentacion Final Sem & Repo\Repo3erSem\build\Reporte_Tecnico_3er_Sem.toc
+INPUT c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\3° Semestre\Presentacion Final Sem & Repo\Repo3erSem\build\Reporte_Tecnico_3er_Sem.toc
+OUTPUT c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\3° Semestre\Presentacion Final Sem & Repo\Repo3erSem\build\Reporte_Tecnico_3er_Sem.toc
+INPUT c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\3° Semestre\Presentacion Final Sem & Repo\Repo3erSem\build\Reporte_Tecnico_3er_Sem.lof
+INPUT c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\3° Semestre\Presentacion Final Sem & Repo\Repo3erSem\build\Reporte_Tecnico_3er_Sem.lof
+INPUT c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\3° Semestre\Presentacion Final Sem & Repo\Repo3erSem\build\Reporte_Tecnico_3er_Sem.lof
+OUTPUT c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\3° Semestre\Presentacion Final Sem & Repo\Repo3erSem\build\Reporte_Tecnico_3er_Sem.lof
+INPUT c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\3° Semestre\Presentacion Final Sem & Repo\Repo3erSem\build\Reporte_Tecnico_3er_Sem.lot
+INPUT c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\3° Semestre\Presentacion Final Sem & Repo\Repo3erSem\build\Reporte_Tecnico_3er_Sem.lot
+INPUT c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\3° Semestre\Presentacion Final Sem & Repo\Repo3erSem\build\Reporte_Tecnico_3er_Sem.lot
+OUTPUT c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\3° Semestre\Presentacion Final Sem & Repo\Repo3erSem\build\Reporte_Tecnico_3er_Sem.lot
 INPUT .\Introduccion.tex
 INPUT .\Introduccion.tex
 INPUT Introduccion.tex
-INPUT .\MarcoConceptual.tex
-INPUT .\MarcoConceptual.tex
-INPUT MarcoConceptual.tex
+INPUT .\Objetivos.tex
+INPUT .\Objetivos.tex
+INPUT Objetivos.tex
 INPUT C:\Users\artur\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmb8t.tfm
-INPUT .\Imagenes\Datos_omicos.png
-INPUT .\Imagenes\Datos_omicos.png
-INPUT .\Imagenes\Datos_omicos.png
-INPUT .\Imagenes\Datos_omicos.png
-INPUT .\Imagenes\Datos_omicos.png
-INPUT .\Imagenes\Datos_omicos.png
-INPUT .\Imagenes\Datos_omicos.png
-INPUT .\Imagenes\Tip_omic.png
-INPUT .\Imagenes\Tip_omic.png
-INPUT .\Imagenes\Tip_omic.png
-INPUT .\Imagenes\Tip_omic.png
-INPUT .\Imagenes\Tip_omic.png
-INPUT .\Imagenes\Tip_omic.png
-INPUT .\Imagenes\Tip_omic.png
-INPUT C:\Users\artur\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmb8t.vf
-INPUT C:\Users\artur\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmb8r.tfm
-INPUT C:\Users\artur\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8t.tfm
-INPUT C:\Users\artur\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
-INPUT C:\Users\artur\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam5.tfm
-INPUT C:\Users\artur\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm5.tfm
-INPUT C:\Users\artur\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmb8t.tfm
-INPUT C:\Users\artur\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmb8t.vf
-INPUT C:\Users\artur\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmb8r.tfm
-INPUT C:\Users\artur\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmr8t.vf
-INPUT C:\Users\artur\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8r.tfm
-INPUT .\Imagenes\Neu_Diag.png
-INPUT .\Imagenes\Neu_Diag.png
-INPUT .\Imagenes\Neu_Diag.png
-INPUT .\Imagenes\Neu_Diag.png
-INPUT .\Imagenes\Neu_Diag.png
-INPUT .\Imagenes\Neu_Diag.png
-INPUT .\Imagenes\Neu_Diag.png
-INPUT .\Imagenes\ConjuntoANN.png
-INPUT .\Imagenes\ConjuntoANN.png
-INPUT .\Imagenes\ConjuntoANN.png
-INPUT .\Imagenes\ConjuntoANN.png
-INPUT .\Imagenes\ConjuntoANN.png
-INPUT .\Imagenes\ConjuntoANN.png
-INPUT .\Imagenes\ConjuntoANN.png
-INPUT C:\Users\artur\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmri8t.tfm
-INPUT .\Imagenes\funcion_sigmoid.png
-INPUT .\Imagenes\funcion_sigmoid.png
-INPUT .\Imagenes\funcion_sigmoid.png
-INPUT .\Imagenes\funcion_sigmoid.png
-INPUT .\Imagenes\funcion_sigmoid.png
-INPUT .\Imagenes\funcion_sigmoid.png
-INPUT .\Imagenes\funcion_sigmoid.png
-INPUT C:\Users\artur\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmri8t.vf
-INPUT C:\Users\artur\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmri8r.tfm
-INPUT .\Imagenes\fun_tanh.png
-INPUT .\Imagenes\fun_tanh.png
-INPUT .\Imagenes\fun_tanh.png
-INPUT .\Imagenes\fun_tanh.png
-INPUT .\Imagenes\fun_tanh.png
-INPUT .\Imagenes\fun_tanh.png
-INPUT .\Imagenes\fun_tanh.png
-INPUT .\Imagenes\Fun_ReLU.png
-INPUT .\Imagenes\Fun_ReLU.png
-INPUT .\Imagenes\Fun_ReLU.png
-INPUT .\Imagenes\Fun_ReLU.png
-INPUT .\Imagenes\Fun_ReLU.png
-INPUT .\Imagenes\Fun_ReLU.png
-INPUT .\Imagenes\Fun_ReLU.png
-INPUT C:\Users\artur\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
-INPUT C:\Users\artur\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx8.tfm
-INPUT C:\Users\artur\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx6.tfm
-INPUT C:\Users\artur\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8t.tfm
-INPUT .\Imagenes\Func_softmax.png
-INPUT .\Imagenes\Func_softmax.png
-INPUT .\Imagenes\Func_softmax.png
-INPUT .\Imagenes\Func_softmax.png
-INPUT .\Imagenes\Func_softmax.png
-INPUT .\Imagenes\Func_softmax.png
-INPUT .\Imagenes\Func_softmax.png
-INPUT .\Imagenes\IA_AA_AP.png
-INPUT .\Imagenes\IA_AA_AP.png
-INPUT .\Imagenes\IA_AA_AP.png
-INPUT .\Imagenes\IA_AA_AP.png
-INPUT .\Imagenes\IA_AA_AP.png
-INPUT .\Imagenes\IA_AA_AP.png
-INPUT .\Imagenes\IA_AA_AP.png
-INPUT .\Imagenes\AP.png
-INPUT .\Imagenes\AP.png
-INPUT .\Imagenes\AP.png
-INPUT .\Imagenes\AP.png
-INPUT .\Imagenes\AP.png
-INPUT .\Imagenes\AP.png
-INPUT .\Imagenes\AP.png
-INPUT .\Imagenes\CNN.png
-INPUT .\Imagenes\CNN.png
-INPUT .\Imagenes\CNN.png
-INPUT .\Imagenes\CNN.png
-INPUT .\Imagenes\CNN.png
-INPUT .\Imagenes\CNN.png
-INPUT .\Imagenes\CNN.png
-INPUT .\Imagenes\Convolucion.png
-INPUT .\Imagenes\Convolucion.png
-INPUT .\Imagenes\Convolucion.png
-INPUT .\Imagenes\Convolucion.png
-INPUT .\Imagenes\Convolucion.png
-INPUT .\Imagenes\Convolucion.png
-INPUT .\Imagenes\Convolucion.png
-INPUT .\Imagenes\Agrupamiento.png
-INPUT .\Imagenes\Agrupamiento.png
-INPUT .\Imagenes\Agrupamiento.png
-INPUT .\Imagenes\Agrupamiento.png
-INPUT .\Imagenes\Agrupamiento.png
-INPUT .\Imagenes\Agrupamiento.png
-INPUT .\Imagenes\Agrupamiento.png
-INPUT .\Imagenes\RNN.png
-INPUT .\Imagenes\RNN.png
-INPUT .\Imagenes\RNN.png
-INPUT .\Imagenes\RNN.png
-INPUT .\Imagenes\RNN.png
-INPUT .\Imagenes\RNN.png
-INPUT .\Imagenes\RNN.png
-INPUT .\EstadoDelArte.tex
-INPUT .\EstadoDelArte.tex
-INPUT EstadoDelArte.tex
-INPUT C:\Users\artur\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx5.tfm
-INPUT C:\Users\artur\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmb8t.tfm
-INPUT .\Imagenes\DL_Oncologia.png
-INPUT .\Imagenes\DL_Oncologia.png
-INPUT .\Imagenes\DL_Oncologia.png
-INPUT .\Imagenes\DL_Oncologia.png
-INPUT .\Imagenes\DL_Oncologia.png
-INPUT .\Imagenes\DL_Oncologia.png
-INPUT .\Imagenes\DL_Oncologia.png
-INPUT C:\Users\artur\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmb8t.vf
-INPUT C:\Users\artur\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmb8r.tfm
-INPUT C:\Users\artur\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmr8t.vf
-INPUT C:\Users\artur\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8r.tfm
-INPUT .\PropuestaDeTesis.tex
-INPUT .\PropuestaDeTesis.tex
-INPUT PropuestaDeTesis.tex
+INPUT .\MarcoTeorico.tex
+INPUT .\MarcoTeorico.tex
+INPUT MarcoTeorico.tex
+INPUT .\Imagenes\GNN.png
+INPUT .\Imagenes\GNN.png
+INPUT .\Imagenes\GNN.png
+INPUT .\Imagenes\GNN.png
+INPUT .\Imagenes\GNN.png
+INPUT .\Imagenes\GNN.png
+INPUT .\Imagenes\GNN.png
+INPUT .\Avances.tex
+INPUT .\Avances.tex
+INPUT Avances.tex
+INPUT .\ActividadesFuturas.tex
+INPUT .\ActividadesFuturas.tex
+INPUT ActividadesFuturas.tex
 INPUT .\Cronograma.tex
 INPUT .\Cronograma.tex
 INPUT Cronograma.tex
@@ -404,30 +285,17 @@ INPUT .\Imagenes\Cronograma.png
 INPUT .\Imagenes\Cronograma.png
 INPUT .\Imagenes\Cronograma.png
 INPUT .\Imagenes\Cronograma.png
-INPUT c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\2° Semestre\Propuesta de tesis (Final)\Propuesta_Tesis_2_Sem\build\AFA_DCsem2_repo.bbl
-INPUT c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\2° Semestre\Propuesta de tesis (Final)\Propuesta_Tesis_2_Sem\build\AFA_DCsem2_repo.bbl
-INPUT c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\2° Semestre\Propuesta de tesis (Final)\Propuesta_Tesis_2_Sem\build\AFA_DCsem2_repo.bbl
-INPUT c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\2° Semestre\Propuesta de tesis (Final)\Propuesta_Tesis_2_Sem\build\AFA_DCsem2_repo.aux
-INPUT c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\2° Semestre\Propuesta de tesis (Final)\Propuesta_Tesis_2_Sem\build\AFA_DCsem2_repo.out
-INPUT c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\2° Semestre\Propuesta de tesis (Final)\Propuesta_Tesis_2_Sem\build\AFA_DCsem2_repo.out
-INPUT C:\Users\artur\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
-INPUT C:\Users\artur\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
-INPUT C:\Users\artur\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmex10.pfb
-INPUT C:\Users\artur\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmex10.pfb
-INPUT C:\Users\artur\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi12.pfb
-INPUT C:\Users\artur\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi12.pfb
-INPUT C:\Users\artur\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi6.pfb
-INPUT C:\Users\artur\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi6.pfb
-INPUT C:\Users\artur\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi8.pfb
-INPUT C:\Users\artur\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi8.pfb
-INPUT C:\Users\artur\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
-INPUT C:\Users\artur\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
-INPUT C:\Users\artur\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr8.pfb
-INPUT C:\Users\artur\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr8.pfb
-INPUT C:\Users\artur\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
-INPUT C:\Users\artur\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
-INPUT C:\Users\artur\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy8.pfb
-INPUT C:\Users\artur\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy8.pfb
+INPUT C:\Users\artur\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmb8t.vf
+INPUT C:\Users\artur\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmb8r.tfm
+INPUT c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\3° Semestre\Presentacion Final Sem & Repo\Repo3erSem\build\Reporte_Tecnico_3er_Sem.bbl
+INPUT c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\3° Semestre\Presentacion Final Sem & Repo\Repo3erSem\build\Reporte_Tecnico_3er_Sem.bbl
+INPUT c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\3° Semestre\Presentacion Final Sem & Repo\Repo3erSem\build\Reporte_Tecnico_3er_Sem.bbl
+INPUT C:\Users\artur\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmri8t.tfm
+INPUT C:\Users\artur\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmri8t.vf
+INPUT C:\Users\artur\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmri8r.tfm
+INPUT c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\3° Semestre\Presentacion Final Sem & Repo\Repo3erSem\build\Reporte_Tecnico_3er_Sem.aux
+INPUT c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\3° Semestre\Presentacion Final Sem & Repo\Repo3erSem\build\Reporte_Tecnico_3er_Sem.out
+INPUT c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\3° Semestre\Presentacion Final Sem & Repo\Repo3erSem\build\Reporte_Tecnico_3er_Sem.out
 INPUT C:\Users\artur\AppData\Local\Programs\MiKTeX\fonts\type1\urw\times\utmb8a.pfb
 INPUT C:\Users\artur\AppData\Local\Programs\MiKTeX\fonts\type1\urw\times\utmb8a.pfb
 INPUT C:\Users\artur\AppData\Local\Programs\MiKTeX\fonts\type1\urw\times\utmr8a.pfb

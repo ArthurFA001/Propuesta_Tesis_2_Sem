@@ -1,0 +1,2 @@
+{"rule":"SPANISH_WORD_REPEAT_RULE","sentence":"^\\QGuadalupe López López Revisores de tesis:\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QDr. Víctor Manuel Alvarado Martínez Dra. Ma.\\E$"}

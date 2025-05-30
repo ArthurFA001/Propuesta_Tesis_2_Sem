@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.22)  11 DEC 2024 20:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.22)  29 MAY 2025 22:26
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Users/artur/OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico/Documentos/Doctorado/2° Semestre/Propuesta de tesis (Final)/Propuesta_Tesis_2_Sem/AFA_DCsem2_repo.tex"
-(c:/Users/artur/OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico/Documentos/Doctorado/2° Semestre/Propuesta de tesis (Final)/Propuesta_Tesis_2_Sem/AFA_DCsem2_repo.tex
+**"c:/Users/artur/OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico/Documentos/Doctorado/3° Semestre/Presentacion Final Sem & Repo/Repo3erSem/Reporte_Tecnico_3er_Sem.tex"
+(c:/Users/artur/OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico/Documentos/Doctorado/3° Semestre/Presentacion Final Sem & Repo/Repo3erSem/Reporte_Tecnico_3er_Sem.tex
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-09-10>
 (C:\Users\artur\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
@@ -443,11 +443,11 @@ File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count320
 \l__pdf_internal_box=\box108
-) (c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\2° Semestre\Propuesta de tesis (Final)\Propuesta_Tesis_2_Sem\build\AFA_DCsem2_repo.aux
+) (c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\3° Semestre\Presentacion Final Sem & Repo\Repo3erSem\build\Reporte_Tecnico_3er_Sem.aux
 LaTeX Info: Redefining \. on input line 11.
 LaTeX Info: Redefining \% on input line 11.
 )
-\openout1 = `AFA_DCsem2_repo.aux'.
+\openout1 = `Reporte_Tecnico_3er_Sem.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 43.
 LaTeX Font Info:    ... okay on input line 43.
@@ -527,12 +527,12 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
 Package hyperref Info: Link coloring ON on input line 43.
- (c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\2° Semestre\Propuesta de tesis (Final)\Propuesta_Tesis_2_Sem\build\AFA_DCsem2_repo.out) (c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\2° Semestre\Propuesta de tesis (Final)\Propuesta_Tesis_2_Sem\build\AFA_DCsem2_repo.out)
+ (c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\3° Semestre\Presentacion Final Sem & Repo\Repo3erSem\build\Reporte_Tecnico_3er_Sem.out) (c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\3° Semestre\Presentacion Final Sem & Repo\Repo3erSem\build\Reporte_Tecnico_3er_Sem.out)
 \@outlinefile=\write3
-\openout3 = `AFA_DCsem2_repo.out'.
+\openout3 = `Reporte_Tecnico_3er_Sem.out'.
 
  (Portada.tex
-<Imagenes/logos latex.PNG, id=138, 573.64313pt x 52.69687pt>
+<Imagenes/logos latex.PNG, id=74, 573.64313pt x 52.69687pt>
 File: Imagenes/logos latex.PNG Graphic file (type png)
 <use Imagenes/logos latex.PNG>
 Package pdftex.def Info: Imagenes/logos latex.PNG  used on input line 3.
@@ -552,236 +552,65 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 [1
 
-{C:/Users/artur/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/artur/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc} <./Imagenes/logos latex.PNG>]) (TablasContenido.tex (c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\2° Semestre\Propuesta de tesis (Final)\Propuesta_Tesis_2_Sem\build\AFA_DCsem2_repo.toc
+{C:/Users/artur/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/artur/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc} <./Imagenes/logos latex.PNG>]) (TablasContenido.tex (c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\3° Semestre\Presentacion Final Sem & Repo\Repo3erSem\build\Reporte_Tecnico_3er_Sem.toc
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
 )
 \tf@toc=\write4
-\openout4 = `AFA_DCsem2_repo.toc'.
+\openout4 = `Reporte_Tecnico_3er_Sem.toc'.
 
 
 
-[1]) (c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\2° Semestre\Propuesta de tesis (Final)\Propuesta_Tesis_2_Sem\build\AFA_DCsem2_repo.lof
+[1]) (c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\3° Semestre\Presentacion Final Sem & Repo\Repo3erSem\build\Reporte_Tecnico_3er_Sem.lof
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
 )
 \tf@lof=\write5
-\openout5 = `AFA_DCsem2_repo.lof'.
+\openout5 = `Reporte_Tecnico_3er_Sem.lof'.
 
 
 
-[2] (c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\2° Semestre\Propuesta de tesis (Final)\Propuesta_Tesis_2_Sem\build\AFA_DCsem2_repo.lot
+[2] (c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\3° Semestre\Presentacion Final Sem & Repo\Repo3erSem\build\Reporte_Tecnico_3er_Sem.lot
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
 )
 \tf@lot=\write6
-\openout6 = `AFA_DCsem2_repo.lot'.
+\openout6 = `Reporte_Tecnico_3er_Sem.lot'.
 
 
 
 [3]
 
-[4] (Introduccion.tex) (MarcoConceptual.tex
+[4] (Introduccion.tex) (Objetivos.tex
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.1 \section
-            {Marco conceptual} [1]
-<Imagenes/Datos_omicos.png, id=265, 911.478pt x 341.859pt>
-File: Imagenes/Datos_omicos.png Graphic file (type png)
-<use Imagenes/Datos_omicos.png>
-Package pdftex.def Info: Imagenes/Datos_omicos.png  used on input line 9.
-(pdftex.def)             Requested size: 422.77698pt x 158.56635pt.
-<Imagenes/Tip_omic.png, id=267, 757.3896pt x 267.8808pt>
-File: Imagenes/Tip_omic.png Graphic file (type png)
-<use Imagenes/Tip_omic.png>
-Package pdftex.def Info: Imagenes/Tip_omic.png  used on input line 20.
-(pdftex.def)             Requested size: 422.77698pt x 149.53398pt.
+            {Objetivos} [1]) (MarcoTeorico.tex
+<Imagenes/GNN.png, id=134, 796.503pt x 419.823pt>
+File: Imagenes/GNN.png Graphic file (type png)
+<use Imagenes/GNN.png>
+Package pdftex.def Info: Imagenes/GNN.png  used on input line 9.
+(pdftex.def)             Requested size: 422.77698pt x 222.83823pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-
-
-[2 <./Imagenes/Datos_omicos.png>]
-
-[3 <./Imagenes/Tip_omic.png>]
-
-[4]
-<Imagenes/Neu_Diag.png, id=310, 762.6894pt x 268.8444pt>
-File: Imagenes/Neu_Diag.png Graphic file (type png)
-<use Imagenes/Neu_Diag.png>
-Package pdftex.def Info: Imagenes/Neu_Diag.png  used on input line 201.
-(pdftex.def)             Requested size: 375.80574pt x 132.46921pt.
-<Imagenes/ConjuntoANN.png, id=316, 896.6298pt x 381.1038pt>
-File: Imagenes/ConjuntoANN.png Graphic file (type png)
-<use Imagenes/ConjuntoANN.png>
-Package pdftex.def Info: Imagenes/ConjuntoANN.png  used on input line 210.
-(pdftex.def)             Requested size: 422.77698pt x 179.6945pt.
-
-
-[5 <./Imagenes/Neu_Diag.png> <./Imagenes/ConjuntoANN.png>]
-<Imagenes/funcion_sigmoid.png, id=337, 409.7709pt x 328.8285pt>
-File: Imagenes/funcion_sigmoid.png Graphic file (type png)
-<use Imagenes/funcion_sigmoid.png>
-Package pdftex.def Info: Imagenes/funcion_sigmoid.png  used on input line 237.
-(pdftex.def)             Requested size: 187.89928pt x 150.78127pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-
-[6]
-<Imagenes/fun_tanh.png, id=363, 424.2249pt x 328.8285pt>
-File: Imagenes/fun_tanh.png Graphic file (type png)
-<use Imagenes/fun_tanh.png>
-Package pdftex.def Info: Imagenes/fun_tanh.png  used on input line 255.
-(pdftex.def)             Requested size: 187.89928pt x 145.64333pt.
-
-
-[7 <./Imagenes/funcion_sigmoid.png> <./Imagenes/fun_tanh.png>]
-<Imagenes/Fun_ReLU.png, id=379, 406.1574pt x 328.8285pt>
-File: Imagenes/Fun_ReLU.png Graphic file (type png)
-<use Imagenes/Fun_ReLU.png>
-Package pdftex.def Info: Imagenes/Fun_ReLU.png  used on input line 275.
-(pdftex.def)             Requested size: 187.89928pt x 152.12094pt.
-<Imagenes/Func_softmax.png, id=384, 422.0568pt x 328.8285pt>
-File: Imagenes/Func_softmax.png Graphic file (type png)
-<use Imagenes/Func_softmax.png>
-Package pdftex.def Info: Imagenes/Func_softmax.png  used on input line 293.
-(pdftex.def)             Requested size: 187.89928pt x 146.39595pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-
-[8 <./Imagenes/Fun_ReLU.png>]
-<Imagenes/IA_AA_AP.png, id=399, 526.1256pt x 358.941pt>
-File: Imagenes/IA_AA_AP.png Graphic file (type png)
-<use Imagenes/IA_AA_AP.png>
-Package pdftex.def Info: Imagenes/IA_AA_AP.png  used on input line 317.
-(pdftex.def)             Requested size: 234.87769pt x 160.2458pt.
-
-
-[9 <./Imagenes/Func_softmax.png> <./Imagenes/IA_AA_AP.png>]
-<Imagenes/AP.png, id=417, 552.537pt x 393.762pt>
-File: Imagenes/AP.png Graphic file (type png)
-<use Imagenes/AP.png>
-Package pdftex.def Info: Imagenes/AP.png  used on input line 337.
-(pdftex.def)             Requested size: 234.87769pt x 167.37967pt.
-
-
-[10 <./Imagenes/AP.png>]
-<Imagenes/CNN.png, id=431, 840.2592pt x 343.5234pt>
-File: Imagenes/CNN.png Graphic file (type png)
-<use Imagenes/CNN.png>
-Package pdftex.def Info: Imagenes/CNN.png  used on input line 350.
-(pdftex.def)             Requested size: 422.77698pt x 172.84106pt.
-<Imagenes/Convolucion.png, id=433, 479.8728pt x 201.3924pt>
-File: Imagenes/Convolucion.png Graphic file (type png)
-<use Imagenes/Convolucion.png>
-Package pdftex.def Info: Imagenes/Convolucion.png  used on input line 359.
-(pdftex.def)             Requested size: 234.87769pt x 98.57558pt.
-<Imagenes/Agrupamiento.png, id=435, 858.0858pt x 181.1568pt>
-File: Imagenes/Agrupamiento.png Graphic file (type png)
-<use Imagenes/Agrupamiento.png>
-Package pdftex.def Info: Imagenes/Agrupamiento.png  used on input line 368.
-(pdftex.def)             Requested size: 328.82733pt x 69.42078pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-
-[11 <./Imagenes/CNN.png> <./Imagenes/Convolucion.png>]
-<Imagenes/RNN.png, id=444, 855.195pt x 348.3414pt>
-File: Imagenes/RNN.png Graphic file (type png)
-<use Imagenes/RNN.png>
-Package pdftex.def Info: Imagenes/RNN.png  used on input line 381.
-(pdftex.def)             Requested size: 328.82733pt x 133.9391pt.
-) (EstadoDelArte.tex
-
-[12 <./Imagenes/Agrupamiento.png> <./Imagenes/RNN.png>]
-
-[13]
-
-[14]
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-
-[15]
-
-[16]
-Overfull \hbox (40.85088pt too wide) in paragraph at lines 158--364
- [][] 
- []
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-
-[17]
-<Imagenes/DL_Oncologia.png, id=653, 927.684pt x 349.524pt>
-File: Imagenes/DL_Oncologia.png Graphic file (type png)
-<use Imagenes/DL_Oncologia.png>
-Package pdftex.def Info: Imagenes/DL_Oncologia.png  used on input line 437.
-(pdftex.def)             Requested size: 375.80574pt x 141.59377pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-
-[18]
-
-[19 <./Imagenes/DL_Oncologia.png>]) (PropuestaDeTesis.tex
-
-[20]
-
-[21]
-
-[22]) (Cronograma.tex
-<Imagenes/Cronograma.png, id=723, 799.48688pt x 417.05812pt>
+) (Avances.tex) (ActividadesFuturas.tex) (Cronograma.tex
+<Imagenes/Cronograma.png, id=135, 799.48688pt x 417.05812pt>
 File: Imagenes/Cronograma.png Graphic file (type png)
 <use Imagenes/Cronograma.png>
 Package pdftex.def Info: Imagenes/Cronograma.png  used on input line 7.
 (pdftex.def)             Requested size: 469.75539pt x 245.05031pt.
 
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
+[2]
 
+[3 <./Imagenes/GNN.png>]) (c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\3° Semestre\Presentacion Final Sem & Repo\Repo3erSem\build\Reporte_Tecnico_3er_Sem.bbl)
 
-
-[23]) (c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\2° Semestre\Propuesta de tesis (Final)\Propuesta_Tesis_2_Sem\build\AFA_DCsem2_repo.bbl
-
-[24 <./Imagenes/Cronograma.png>]
-
-[25]
-
-[26]
-
-[27]
-
-[28]
-
-[29]
-
-[30])
-
-[31] (c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\2° Semestre\Propuesta de tesis (Final)\Propuesta_Tesis_2_Sem\build\AFA_DCsem2_repo.aux
+[4 <./Imagenes/Cronograma.png>] (c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\3° Semestre\Presentacion Final Sem & Repo\Repo3erSem\build\Reporte_Tecnico_3er_Sem.aux
 LaTeX Info: Redefining \. on input line 11.
 LaTeX Info: Redefining \% on input line 11.
 )
@@ -789,21 +618,21 @@ LaTeX Info: Redefining \% on input line 11.
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-09-10>
  ***********
-Package rerunfilecheck Info: File `AFA_DCsem2_repo.out' has not changed.
-(rerunfilecheck)             Checksum: D6E92A608F110F7F63C2A9AF606ACD78;5568.
+Package rerunfilecheck Info: File `Reporte_Tecnico_3er_Sem.out' has not changed.
+(rerunfilecheck)             Checksum: F86649BF2A32F3A6F3AE89DCB03A7C56;2357.
  ) 
 Here is how much of TeX's memory you used:
- 15746 strings out of 473899
- 261189 string characters out of 5726499
- 713428 words of memory out of 5000000
- 38180 multiletter control sequences out of 15000+600000
- 597872 words of font info for 86 fonts, out of 8000000 for 9000
+ 15137 strings out of 473899
+ 247809 string characters out of 5726499
+ 660451 words of memory out of 5000000
+ 37734 multiletter control sequences out of 15000+600000
+ 584940 words of font info for 71 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 69i,11n,80p,1259b,753s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/artur/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/artur/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/artur/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/artur/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/artur/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/artur/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/artur/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/artur/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/artur/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/artur/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/artur/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/artur/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on "c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\2° Semestre\Propuesta de tesis (Final)\Propuesta_Tesis_2_Sem\build\AFA_DCsem2_repo.pdf" (36 pages, 2145380 bytes).
+ 69i,10n,80p,1007b,481s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/artur/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/artur/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/artur/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
+Output written on "c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\3° Semestre\Presentacion Final Sem & Repo\Repo3erSem\build\Reporte_Tecnico_3er_Sem.pdf" (9 pages, 335693 bytes).
 PDF statistics:
- 855 PDF objects out of 1000 (max. 8388607)
- 188 named destinations out of 1000 (max. 500000)
- 358 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 177 PDF objects out of 1000 (max. 8388607)
+ 32 named destinations out of 1000 (max. 500000)
+ 160 words of extra memory for PDF output out of 10000 (max. 10000000)
 
